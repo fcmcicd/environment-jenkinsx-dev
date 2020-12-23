@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: FCMJenkinsX
-  repo: spring-boot-http-gradle-v2
-  url: https://github.com/FCMJenkinsX/spring-boot-http-gradle-v2.git
+  repo: spring-boot-http-gradle-v3
+  url: https://github.com/FCMJenkinsX/spring-boot-http-gradle-v3.git
   version: ""
   versionURL: ""
