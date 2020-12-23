@@ -2,4 +2,4 @@
 
 Dependency | Sources | Version | Mismatched versions
 ---------- | ------- | ------- | -------------------
-[FCMJenkinsX/sprint-boot-http-gradle](https://github.com/FCMJenkinsX/sprint-boot-http-gradle.git) |  | []() | 
+[FCMJenkinsX/spring-boot-http-gradle](https://github.com/FCMJenkinsX/spring-boot-http-gradle.git) |  | []() | 
