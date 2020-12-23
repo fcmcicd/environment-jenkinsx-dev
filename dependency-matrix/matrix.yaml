@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: FCMJenkinsX
+  repo: sprint-boot-http-gradle
+  url: https://github.com/FCMJenkinsX/sprint-boot-http-gradle.git
+  version: ""
+  versionURL: ""
