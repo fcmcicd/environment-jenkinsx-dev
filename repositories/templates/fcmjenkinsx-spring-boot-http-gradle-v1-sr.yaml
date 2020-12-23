@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: FCMJenkinsX
+    provider: github
+    repository: spring-boot-http-gradle-v1
+  name: fcmjenkinsx-spring-boot-http-gradle-v1
+spec:
+  description: Imported application for FCMJenkinsX/spring-boot-http-gradle-v1
+  httpCloneURL: https://github.com/FCMJenkinsX/spring-boot-http-gradle-v1.git
+  org: FCMJenkinsX
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: spring-boot-http-gradle-v1
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/FCMJenkinsX/spring-boot-http-gradle-v1.git
