@@ -1,0 +1,15 @@
+adminUser:
+  password: local:jenkinsx/adminUser:password
+  username: admin
+docker:
+  email: mike@fcm.com
+  password: local:jenkinsx/docker:password
+  url: https://index.docker.io/v1/
+  username: sowestport
+enableDocker: true
+pipelineUser:
+  email: mike@fcm.com
+  token: local:jenkinsx/pipelineUser:token
+  username: fcmcicd
+prow:
+  hmacToken: local:jenkinsx/prow:hmacToken
